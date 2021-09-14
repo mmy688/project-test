@@ -1,8 +1,8 @@
 baseURL = "http://example.org/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "write and learn"
-copyright = "2021 @ H.H"
+title = "Write and Learn"
+copyright = "2021@H.H"
 theme = "diary"
 # googleAnalytics = "UA-123-45"
 
